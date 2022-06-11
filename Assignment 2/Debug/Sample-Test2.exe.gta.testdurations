@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>C:\Users\Osama\source\repos\DS--2\Debug\Sample-Test2.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="SearchTest.CBID" Duration="0" />
+  </TestDurations>
+</GtaTestDurations>
